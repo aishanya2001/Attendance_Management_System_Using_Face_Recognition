@@ -5,14 +5,14 @@ Facial recognition student attendance system using OpenCV ,python and flask This
 Facial recognition is becoming more prominent in our society. It has made major progress in the field of security. It is a very effective tool that can help low enforcers to recognize criminals and software companies are leveraging the technology to help users access the technology. This technology can be further developed to be used in other avenues such as ATMs, accessing confidential files, or other sensitive materials. This project servers as a foundation for future projects based on facial detection and recognition. This project also convers web development and database management with a user-friendly UI. Using this system any corporate offices, school and organization can replace their traditional way of maintaining attendance of the employees and also calculate bonus amount for employees daily if they work extra.
 
 # The system mainly works around 2 types of users
-1.Admin
-2.Employee
+1. Admin
+2. Employee
 ADMIN:-
-The username and password of admin is fixed.
+The username and password of the admin is fixed.
 username-Admin_25
 password-password@kashu
 
-# Following functionalities can be performed by the admin:
+# The following functionalities can be performed by the admin:
 • Login
 • Register new employees to the system.
 • Set the username and password of employee.
